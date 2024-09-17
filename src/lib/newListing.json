@@ -1,0 +1,141 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/house1.jpg",
+    "price": "$325,000",
+    "address": "2657 Lenox Rd NE #170-2",
+    "city": "Atlanta, GA 30311",
+    "agency": "Real Broker, LLC.",
+    "bathroom": "1",
+    "size":"1,234",
+    "bed": "1",
+    "opening": "COMING SOON 10/12",
+    "is_new": true
+  },
+
+  {
+    "id": 2,
+    "image": "/assets/house11.jpg",
+    "price": "$325,000",
+    "address": "2657 Lenox Rd NE #170-2",
+    "city": "Atlanta, GA 30311",
+    "agency": "Real Broker, LLC.",
+    "bathroom": "1",
+    "size":"1,234",
+    "bed": "1",
+    "opening": "COMING SOON 10/12",
+    "is_new": true
+  },
+  {
+    "id": 3,
+    "image": "/assets/house2.jpg",
+    "price":"$325,000",
+    "address":"2657 Lenox Rd NE #170-2",
+    "city":"Atlanta, GA 30311",
+    "agency":"Real Broker, LLC.",
+    "bathroom":"1",
+    "size":"1,234",
+    "bed":"1",
+    "opening":"COMING SOON 10/12",
+    "is_new":true
+
+  },
+  {
+    "id": 4,
+    "image": "/assets/house3.jpg",
+    "price":"$325,000",
+    "address":"2657 Lenox Rd NE #170-2",
+    "city":"Atlanta, GA 30311",
+    "agency":"Real Broker, LLC.",
+    "bathroom":"1",
+    "size":"1,234",
+    "bed":"1",
+    "opening":"COMING SOON 10/12",
+    "is_new":true
+
+  },
+  {
+    "id": 5,
+    "image": "/assets/house4.jpg",
+    "price":"$325,000",
+    "address":"2657 Lenox Rd NE #170-2",
+    "city":"Atlanta, GA 30311",
+    "agency":"Real Broker, LLC.",
+    "bathroom":"1",
+    "size":"1,234",
+    "bed":"1",
+    "opening":"COMING SOON 10/12",
+    "is_new":true
+
+  },
+  {
+    "id": 6,
+    "image": "/assets/house12.jpg",
+    "price":"$325,000",
+    "address":"2657 Lenox Rd NE #170-2",
+    "city":"Atlanta, GA 30311",
+    "agency":"Real Broker, LLC.",
+    "size":"1,234",
+    "bathroom":"1",
+    "bed":"1",
+    "opening":"COMING SOON 10/12",
+    "is_new":true
+
+  },
+  {
+    "id": 7,
+    "image": "/assets/house7.jpg",
+    "price":"$325,000",
+    "address":"2657 Lenox Rd NE #170-2",
+    "city":"Atlanta, GA 30311",
+    "agency":"Real Broker, LLC.",
+    "size":"1,234",
+    "bathroom":"1",
+    "bed":"1",
+    "opening":"COMING SOON 10/12",
+    "is_new":true
+
+  },
+  {
+    "id": 8,
+    "image": "/assets/house8.jpg",
+    "price":"$325,000",
+    "address":"2657 Lenox Rd NE #170-2",
+    "city":"Atlanta, GA 30311",
+    "agency":"Real Broker, LLC.",
+    "size":"1,234",
+    "bathroom":"1",
+    "bed":"1",
+    "opening":"COMING SOON 10/12",
+    "is_new":true
+
+  },
+  {
+    "id": 9,
+    "image": "/assets/house9.jpg",
+    "price":"$325,000",
+    "address":"2657 Lenox Rd NE #170-2",
+    "city":"Atlanta, GA 30311",
+    "agency":"Real Broker, LLC.",
+    "size":"1,234",
+    "bathroom":"1",
+    "bed":"1",
+    "opening":"COMING SOON 10/12",
+    "is_new":true
+
+  },
+  {
+    "id": 10,
+    "image": "/assets/house10.jpg",
+    "price":"$25,000",
+    "address":"2657 Lenox Rd NE #170-2",
+    "city":"Atlanta, GA 30311",
+    "agency":"Real Broker, LLC.",
+    "size":"1,234",
+    "bathroom":"1",
+    "bed":"1",
+    "opening":"COMING SOON 9/12",
+    "is_new":false
+
+  }
+]

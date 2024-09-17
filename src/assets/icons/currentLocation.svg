@@ -1,0 +1,14 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    fill="none"
+    stroke="#007882"
+    strokeWidth="2"
+    viewBox="0 0 24 24"
+    width="24px"
+    height="24px"
+  >
+    <path
+      d="M12 2L19.5 21.5 12 17l-7.5 4.5L12 2z"
+      transform="rotate(40 12 12)"
+    />
+  </svg>

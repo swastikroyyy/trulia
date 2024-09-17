@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1,
+    "title": "Oakland, CA",
+    "buttonText": "View Homes",
+    "image": "/assets/house1.jpg",
+    "type": "image-card"
+  },
+  {
+    "id": 2,
+    "title": "Sandy Springs, GA",
+    "buttonText": "View Homes",
+    "image": "/assets/house2.jpg",
+    "type": "image-card"
+  },
+  {
+    "id": 3,
+    "title": "Trulia User",
+    "description": "Farmers markets, street fairs, and brewery tours are great to experience in this area.",
+    "city": "Chandler Resident",
+    "type": "text-card"
+  },
+  {
+    "id": 4,
+    "title": "Newton, MA",
+    "buttonText": "View Homes",
+    "image": "/assets/house3.jpg",
+    "type": "image-card"
+  },
+  {
+    "id": 5,
+    "title": "Someone Else",
+    "description": "We live living in the Oakwood community of Sun Lakes. There are so many activities...",
+    "city": "Resident of Carlsbad",
+    "type": "text-card"
+  },
+  {
+    "id": 6,
+    "title": "Brianne",
+    "description": "A vibrant community with lots of activities for families.",
+    "city": "Chandler Resident",
+    "type": "text-card"
+  },
+  {
+    "id": 7,
+    "title": "Trulia User",
+    "description": "I just moved to the neighborhood 2 years ago and love it! It's a great mix of families, seniors and...",
+    "city": "San Francisco Resident",
+    "type": "text-card"
+  },
+  {
+    "id": 8,
+    "title": "Newton, MA",
+    "buttonText": "View Homes",
+    "image": "/assets/house4.jpg",
+    "type": "image-card"
+  },
+  {
+    "id": 9,
+    "title": "Newton, MA",
+    "buttonText": "View Homes",
+    "image": "/assets/house6.jpg",
+    "type": "image-card"
+  },
+  {
+    "id": 10,
+    "title": "Newton, MA",
+    "buttonText": "View Homes",
+    "image": "/assets/house12.jpg",
+    "type": "image-card"
+  },
+  {
+    "id": 11,
+    "title": "MA",
+    "buttonText": "View Homes",
+    "image": "/assets/house7.jpg",
+    "type": "image-card"
+  },
+  {
+    "id": 12,
+    "title": "Newton, MA",
+    "buttonText": "View Homes",
+    "image": "/assets/house8.jpg",
+    "type": "image-card"
+  },
+  {
+    "id": 13,
+    "title": "Newton, MA",
+    "buttonText": "View Homes",
+    "image": "/assets/house9.jpg",
+    "type": "image-card"
+  },
+  {
+    "id": 14,
+    "title": "Newton, MA",
+    "buttonText": "View Homes",
+    "image": "/assets/house10.jpg",
+    "type": "image-card"
+  },
+  {
+    "id": 15,
+    "title": "MA",
+    "buttonText": "View Homes",
+    "image": "/assets/house11.jpg",
+    "type": "image-card"
+  },
+  {
+    "id": 16,
+    "title": "Newton, MA",
+    "buttonText": "View Homes",
+    "image": "/assets/house12.jpg",
+    "type": "image-card"
+  },
+  {
+    "id": 17,
+    "title": "Newton, MA",
+    "buttonText": "View Homes",
+    "image": "/assets/house2.jpg",
+    "type": "image-card"
+  },
+  {
+    "id": 18,
+    "title": "Newton, MA",
+    "buttonText": "View Homes",
+    "image": "/assets/house1.jpg",
+    "type": "image-card"
+  },
+  {
+    "id": 19,
+    "title": "MA",
+    "buttonText": "View Homes",
+    "image": "/assets/house3.jpg",
+    "type": "image-card"
+  },
+  {
+    "id": 20,
+    "title": "Newton, MA",
+    "buttonText": "View Homes",
+    "image": "/assets/house7.jpg",
+    "type": "image-card"
+  }
+  
+]

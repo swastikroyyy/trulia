@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'FontBold';
+  src: url('./assets/Fonts/Trulia/FontBold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FontRegular';
+  src: url('./assets/Fonts/Trulia/FontRegular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+  html {
+    font-family: 'FontRegular', sans-serif;
+  }
+
+  body {
+    margin: 0;
+    font-family: 'FontRegular', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  code {
+    font-family: 'FontBold', sans-serif;
+  }
+.tabDefault {
+  backdrop-filter: blur(10px);
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.4
+  ); 
+  font-size: 20px;
+  color: #ffffff;
+  padding: 10px 15px;
+  transition: background-color 0.3s, color 0.3s, border-radius 0.3s;
+  border-radius: 10px; 
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.tabTrans {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.tabHover:hover {
+  background-color: white;
+  color: #007882 !important;
+}
+
+.tabSelected[aria-selected='true'] {
+  background-color: white;
+  color: #007882;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.tabInactive:not([aria-selected='true']) {
+  color: white;
+  font-size: 20px;
+}
+.banner {
+  text-shadow: 0 0px 5px rgba(0, 0, 0, 1);
+  
+}
+.bg-gradient-custom {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0) 50%);
+}
+
+.text-shadow-custom {
+  text-shadow: rgb(0, 0, 0) 0px 1px 5px;
+}
